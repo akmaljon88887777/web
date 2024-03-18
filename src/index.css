@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Public-Sans", sans-serif !important;
+  /* color: #262626 !important; */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.active:active {
+  background-color: #e6f4ff;
+}
+/* #chart {
+  margin: 35px auto;
+}
+#chart2 {
+  margin: 35px auto;
+} */
+button {
+  cursor: pointer;
+  /* color: wheat !important; */
+}

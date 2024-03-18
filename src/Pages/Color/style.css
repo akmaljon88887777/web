@@ -1,0 +1,23 @@
+@media screen and (max-width: 769px) {
+  .grid {
+    display: grid !important;
+    grid-template-columns: auto auto !important;
+  }
+  Card {
+    width: 300px !important;
+  }
+}
+@media screen and (max-width: 426px) {
+  .grid {
+    display: grid !important;
+    grid-template-columns: auto !important;
+  }
+  Card {
+    width: 300px !important;
+  }
+}
+.father {
+  z-index: 999 !important;
+  position: "absolute";
+  margin-top: 8% !important;
+}

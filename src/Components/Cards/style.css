@@ -1,0 +1,11 @@
+@media screen and (max-width: 1025px) {
+  .grid {
+    display: grid !important;
+    grid-template-columns: auto !important;
+    gap: 100px !important;
+  }
+  .cards {
+    width: 96% !important;
+    height: 95% !important;
+  }
+}
